@@ -3,7 +3,7 @@
     {
       "id": "1",
       "content": "HTML is easy",
-      "important": false
+      "important": true
     },
     {
       "id": "2",
@@ -23,11 +23,21 @@
     {
       "id": "234a",
       "content": "I might have DDOS myself oops",
-      "important": true
+      "important": false
     },
     {
       "id": "4a92",
       "content": "HAHAHA OOPS",
+      "important": false
+    },
+    {
+      "id": "9cd7",
+      "content": "New Note",
+      "important": false
+    },
+    {
+      "id": "d94b",
+      "content": "ANother New note",
       "important": false
     }
   ]
