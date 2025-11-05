@@ -8,7 +8,7 @@
     {
       "id": "2",
       "content": "Browser can execute only JavaScript",
-      "important": false
+      "important": true
     },
     {
       "id": "3",
@@ -23,22 +23,22 @@
     {
       "id": "234a",
       "content": "I might have DDOS myself oops",
-      "important": false
+      "important": true
     },
     {
       "id": "4a92",
       "content": "HAHAHA OOPS",
-      "important": false
+      "important": true
     },
     {
       "id": "9cd7",
       "content": "New Note",
-      "important": false
+      "important": true
     },
     {
       "id": "d94b",
       "content": "ANother New note",
-      "important": false
+      "important": true
     }
   ]
 }
