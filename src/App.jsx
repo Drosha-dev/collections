@@ -46,9 +46,10 @@ const App = () => {
     noteService
       .update(id, changedNote)
       .then(returnedNote => {
+        //this says if this note is the one we just updated keet it as is, if it is replace with the new version we just created
         setNotes(notes.map(note => (note.id !== id ? note : returnedNote)))
       })
-      .catch(error => {
+      .catch(() => {
         setErrorMessage(
           `Note '${note.content}' was already removed from server`
         )
